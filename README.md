@@ -1,2 +1,2 @@
 # LLVM-compiler
-Hi try new things in github
+Hey, try new things in github
